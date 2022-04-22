@@ -1,0 +1,9 @@
+﻿  InforClient.cpp
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(46,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(58,37): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(63,137): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(77,97): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(86,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(89,81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\InforClient\InforClient.cpp(92,73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  InforClient.vcxproj -> D:\Source code\C-C++\LapTrinhMang-Projects\x64\Debug\InforClient.exe
