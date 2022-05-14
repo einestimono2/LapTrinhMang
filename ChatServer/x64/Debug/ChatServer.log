@@ -1,0 +1,20 @@
+﻿  ChatServer.cpp
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(22,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(33,23): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(33,23): message : this argument is used as a buffer size
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(48,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(60,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(60,16): message : consider using '%lld' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(60,16): message : consider using '%Id' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(60,16): message : consider using '%I64d' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(70,32): warning C4477: 'snprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(70,32): message : consider using '%lld' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(70,32): message : consider using '%Id' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(70,32): message : consider using '%I64d' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(74,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(104,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(104,16): message : consider using '%lld' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(104,16): message : consider using '%Id' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(104,16): message : consider using '%I64d' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer\ChatServer.cpp(78): warning C4715: 'ClientThread': not all control paths return a value
+  ChatServer.vcxproj -> D:\Source code\C-C++\LapTrinhMang-Projects\x64\Debug\ChatServer.exe

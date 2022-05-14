@@ -1,0 +1,24 @@
+﻿  TelnetServer.cpp
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(23,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(30,23): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(30,23): message : this argument is used as a buffer size
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(36,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(43,23): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(43,23): message : this argument is used as a buffer size
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(60,28): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(60,28): message : this argument is used as a buffer size
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(60,28): warning C4477: 'sscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 4 has type 'size_t'
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(60,28): message : this argument is used as a buffer size
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(83,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(92,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(99,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(99,16): message : consider using '%lld' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(99,16): message : consider using '%Id' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(99,16): message : consider using '%I64d' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(121,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(166,20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(166,20): message : consider using '%lld' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(166,20): message : consider using '%Id' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(166,20): message : consider using '%I64d' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\TelnetServer\TelnetServer.cpp(140): warning C4715: 'ClientThread': not all control paths return a value
+  TelnetServer.vcxproj -> D:\Source code\C-C++\LapTrinhMang-Projects\x64\Debug\TelnetServer.exe
