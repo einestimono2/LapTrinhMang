@@ -1,0 +1,26 @@
+﻿  ChatServer - FULL.cpp
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(25,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(50,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(63,68): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(69,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(80,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(84,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(96,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(100,41): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(103,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(104,71): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(105,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(117,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(155,47): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(170,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(178,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(187,63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(193,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(245,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(252,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(148,19): warning C4101: 'tag': unreferenced local variable
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(283,16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(283,16): message : consider using '%lld' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(283,16): message : consider using '%Id' in the format string
+D:\Source code\C-C++\LapTrinhMang-Projects\ChatServer - FULL\ChatServer - FULL.cpp(283,16): message : consider using '%I64d' in the format string
+  ChatServer - FULL.vcxproj -> D:\Source code\C-C++\LapTrinhMang-Projects\x64\Debug\ChatServer - FULL.exe
